@@ -1,0 +1,21 @@
+body{
+    background-color :lemonchiffon;
+}
+.Container{
+    display : inline-block;
+}
+
+.Clone{
+    border : 10px solid ;
+    display :inline-block;
+    margin : 100px;
+    padding : 100px;
+    background-color : grey;
+}
+.Container2{
+    border : 10px solid ;
+    display :inline-block;
+    margin : 100px;
+    padding : 100px;
+    background-color : grey;
+}
